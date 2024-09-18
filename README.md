@@ -3,7 +3,7 @@
 
 **Rafael Ega Krisaditya (5027231025)**
 
-# Pegawai Negeri Sebelah
+## Pegawai Negeri Sebelah
 1. Pertama saya run port nya yaitu dengan ```ncat 10.15.42.60 53000``` lalu diminta untuk mencari pemilik password tersebut.
 ![Cuplikan layar 2024-09-18 125357](https://github.com/user-attachments/assets/76a97beb-f98d-47d9-b38f-493dc5a26ebe)
 
@@ -15,14 +15,14 @@
 ![Cuplikan layar 2024-09-18 125357](https://github.com/user-attachments/assets/76a97beb-f98d-47d9-b38f-493dc5a26ebe)
 
 
-# EZ
+## EZ
 1. ketika saya melihat isi dari masing-masing file, ada pesan panjang dalam satu file ini dan saya menemukan pesannya adalah **jawabannya jawaban**
    dan ada port nya yaitu 1234
 ![Cuplikan layar 2024-09-18 131448](https://github.com/user-attachments/assets/45ade05c-d254-43cf-87f7-f8afc7043b22)
 ![Cuplikan layar 2024-09-18 131431](https://github.com/user-attachments/assets/b0e063fc-1c7d-47ba-9da8-e22911729696)
 ![Cuplikan layar 2024-09-18 131509](https://github.com/user-attachments/assets/cbda89e6-1b9d-4299-ac02-e31906d5d37f)
 
-# Rizzset
+## Rizzset
 1. Pertanyaan pertama adalah domain dari dns query. Lalu saya melihat bahwa ada banyak yg menggunakan www.its.ac.id pada list dibawah ini.
 ![Cuplikan layar 2024-09-18 214520](https://github.com/user-attachments/assets/4f6f203a-ffba-4e37-a862-eff79e9754bd)
 
@@ -39,7 +39,7 @@ Dan ditemukan JARM fingerprintn nya
 ![Cuplikan layar 2024-09-18 222328](https://github.com/user-attachments/assets/d87d85c6-1a03-4807-8eda-cf24159a27de)
 ![Cuplikan layar 2024-09-18 222342](https://github.com/user-attachments/assets/05289e2e-387c-4f1e-9b9a-718c0fe06252)
 
-# Gajah Terbang Server
+## Gajah Terbang Server
 1. Diminta untuk mencari DBMS yang digunakan.
 ![image](https://github.com/user-attachments/assets/6852a909-c61a-4cd7-a879-8cc2bfa42246)
 
@@ -60,7 +60,7 @@ Dan ditemukan JARM fingerprintn nya
 ![image](https://github.com/user-attachments/assets/309ea24a-a2cc-4bd4-ad00-42d693bede09)
 
 
-# Gajah Terbang Attacker
+## Gajah Terbang Attacker
 *Lanjutan dari Gajah Terbang Server*
 ![image](https://github.com/user-attachments/assets/b67a20dd-ea60-46d1-be11-2c65dd3193d2)
 ![Cuplikan layar 2024-09-18 235911](https://github.com/user-attachments/assets/847841c9-bbe9-4714-aeb0-d84b9339f452)
@@ -68,6 +68,10 @@ Dan ditemukan JARM fingerprintn nya
 Jawaban diambil dari analisa data yang ada pada gambar pertama
 ![Cuplikan layar 2024-09-19 000547](https://github.com/user-attachments/assets/fcc36c00-8858-4c93-b655-8059c9cebfb4)
 
+## Advance Sanity Check
+![image](https://github.com/user-attachments/assets/32db71d0-006c-410d-b614-0b68486a3ebb)
+
+## Illegal Breakthrough
 
 
 
