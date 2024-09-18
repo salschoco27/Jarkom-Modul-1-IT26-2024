@@ -41,6 +41,9 @@
 4. OS & credentials apa yg digunakan?
 ![image](https://github.com/user-attachments/assets/3b21d4e0-028d-46a1-9d06-c457d551069a)
 ![image](https://github.com/user-attachments/assets/34dfdb0f-37bd-4a1e-9b38-11f8ad18448c)
+5. password crack
+![image](https://github.com/user-attachments/assets/5295c9fd-0652-4c4b-9066-2fab06b4cfc1)
+
 
 
 
