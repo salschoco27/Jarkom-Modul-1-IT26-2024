@@ -46,6 +46,10 @@
 ![image](https://github.com/user-attachments/assets/309ea24a-a2cc-4bd4-ad00-42d693bede09)
 
 
+# Gajah Terbang Attack
+![Cuplikan layar 2024-09-18 235911](https://github.com/user-attachments/assets/847841c9-bbe9-4714-aeb0-d84b9339f452)
+
+
 
 
 
