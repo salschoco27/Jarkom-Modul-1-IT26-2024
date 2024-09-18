@@ -34,5 +34,10 @@
 ![image](https://github.com/user-attachments/assets/6852a909-c61a-4cd7-a879-8cc2bfa42246)
 2. Terlihat bahwa ada PGSQL atau PostgreSQL
 ![image](https://github.com/user-attachments/assets/91820317-6ed9-4861-8e92-20f3a9d590fa)
-3. 
+3. Ditanyakan port yg digunakan
+![image](https://github.com/user-attachments/assets/aca896f5-2835-4695-a447-59de12a3d7eb)
+![image](https://github.com/user-attachments/assets/43c1960b-5cd3-437d-b7c8-f608b898045c)
+![image](https://github.com/user-attachments/assets/5fe63f4e-07a7-44c5-8a3b-631e06ab8668)
+
+
 
