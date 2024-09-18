@@ -43,6 +43,8 @@
 ![image](https://github.com/user-attachments/assets/34dfdb0f-37bd-4a1e-9b38-11f8ad18448c)
 5. password crack
 ![image](https://github.com/user-attachments/assets/5295c9fd-0652-4c4b-9066-2fab06b4cfc1)
+![image](https://github.com/user-attachments/assets/309ea24a-a2cc-4bd4-ad00-42d693bede09)
+
 
 
 
