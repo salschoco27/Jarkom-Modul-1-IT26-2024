@@ -4,13 +4,13 @@
 **Rafael Ega Krisaditya (5027231025)**
 
 # Pegawai Negeri Sebelah
+1. Pertama saya run port nya yaitu dengan ```ncat 10.15.42.60 53000``` lalu diminta untuk mencari pemilik password tersebut.
+![Cuplikan layar 2024-09-18 125357](https://github.com/user-attachments/assets/76a97beb-f98d-47d9-b38f-493dc5a26ebe)
+2. Saya mencari menggunakan ``` tcp contains "nNn" ``` dimana *nNn* merupakan 3 huruf pertama dari password yg dicari.
 ![Cuplikan layar 2024-09-18 125657](https://github.com/user-attachments/assets/3cca95db-195a-4783-960c-0b3e364c1f6c)
+3. Saya gunakan Follow > TCP Stream untuk melihat data full nya. Lalu mencari jawaban dari pertanyaan-pertanyaan yg ada.
 ![Cuplikan layar 2024-09-18 125728](https://github.com/user-attachments/assets/826f7619-d5a3-4d28-b53a-296da6f4eb14)
 ![Cuplikan layar 2024-09-18 125357](https://github.com/user-attachments/assets/76a97beb-f98d-47d9-b38f-493dc5a26ebe)
-
-# 22 Nightmare 
-//belum
-![Cuplikan layar 2024-09-18 140421](https://github.com/user-attachments/assets/eb2e21bd-deb9-46c0-9742-3caec4085051)
 
 
 # EZ
