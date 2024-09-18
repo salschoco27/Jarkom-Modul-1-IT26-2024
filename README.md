@@ -38,6 +38,11 @@
 ![image](https://github.com/user-attachments/assets/aca896f5-2835-4695-a447-59de12a3d7eb)
 ![image](https://github.com/user-attachments/assets/43c1960b-5cd3-437d-b7c8-f608b898045c)
 ![image](https://github.com/user-attachments/assets/5fe63f4e-07a7-44c5-8a3b-631e06ab8668)
+4. OS & credentials apa yg digunakan?
+![image](https://github.com/user-attachments/assets/3b21d4e0-028d-46a1-9d06-c457d551069a)
+![image](https://github.com/user-attachments/assets/34dfdb0f-37bd-4a1e-9b38-11f8ad18448c)
+
+
 
 
 
