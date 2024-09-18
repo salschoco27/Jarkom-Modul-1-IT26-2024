@@ -60,8 +60,13 @@ Dan ditemukan JARM fingerprintn nya
 ![image](https://github.com/user-attachments/assets/309ea24a-a2cc-4bd4-ad00-42d693bede09)
 
 
-# Gajah Terbang Attack
+# Gajah Terbang Attacker
+*Lanjutan dari Gajah Terbang Server*
+![image](https://github.com/user-attachments/assets/b67a20dd-ea60-46d1-be11-2c65dd3193d2)
 ![Cuplikan layar 2024-09-18 235911](https://github.com/user-attachments/assets/847841c9-bbe9-4714-aeb0-d84b9339f452)
+
+Jawaban diambil dari analisa data yang ada pada gambar pertama
+![Cuplikan layar 2024-09-19 000547](https://github.com/user-attachments/assets/fcc36c00-8858-4c93-b655-8059c9cebfb4)
 
 
 
