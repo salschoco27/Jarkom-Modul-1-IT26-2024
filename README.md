@@ -28,3 +28,11 @@
 ![Cuplikan layar 2024-09-18 222236](https://github.com/user-attachments/assets/f87d4371-08c7-4b08-8d07-e187857f42fb)
 ![Cuplikan layar 2024-09-18 222328](https://github.com/user-attachments/assets/d87d85c6-1a03-4807-8eda-cf24159a27de)
 ![Cuplikan layar 2024-09-18 222342](https://github.com/user-attachments/assets/05289e2e-387c-4f1e-9b9a-718c0fe06252)
+
+# Gajah Terbang Server
+1. Diminta untuk mencari DBMS yang digunakan.
+![image](https://github.com/user-attachments/assets/6852a909-c61a-4cd7-a879-8cc2bfa42246)
+2. Terlihat bahwa ada PGSQL atau PostgreSQL
+![image](https://github.com/user-attachments/assets/91820317-6ed9-4861-8e92-20f3a9d590fa)
+3. 
+
