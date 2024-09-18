@@ -56,7 +56,6 @@ Dan ditemukan JARM fingerprintn nya
 ![image](https://github.com/user-attachments/assets/34dfdb0f-37bd-4a1e-9b38-11f8ad18448c)
 
 5. password crack
-![image](https://github.com/user-attachments/assets/b67a20dd-ea60-46d1-be11-2c65dd3193d2)
 ![image](https://github.com/user-attachments/assets/5295c9fd-0652-4c4b-9066-2fab06b4cfc1)
 ![image](https://github.com/user-attachments/assets/309ea24a-a2cc-4bd4-ad00-42d693bede09)
 
@@ -71,11 +70,41 @@ Jawaban diambil dari analisa data yang ada pada gambar pertama
 
 ## Advance Sanity Check
 ![image](https://github.com/user-attachments/assets/32db71d0-006c-410d-b614-0b68486a3ebb)
+![Screenshot 2024-09-19 000158](https://github.com/user-attachments/assets/519c8ad4-10d0-4987-adc2-f31a546baabb)
+![Screenshot 2024-09-19 000454](https://github.com/user-attachments/assets/1ee5a92b-b80a-4249-829c-af0287d6b81f)
+![Screenshot 2024-09-19 000519](https://github.com/user-attachments/assets/fc3dd2cb-3b06-4e3c-9d6c-c1889ba2c732)
+![Screenshot 2024-09-19 001145](https://github.com/user-attachments/assets/7bccada7-5b8d-4d6c-a968-51fbb3b2e51d)
+
 
 ## Illegal Breakthrough
+![Screenshot 2024-09-19 002115](https://github.com/user-attachments/assets/047539c9-037b-487d-bd1c-32636fba895c)
+![Screenshot 2024-09-19 002254](https://github.com/user-attachments/assets/edca712e-ee7f-4d1a-8a12-1c09fa05cbe9)
 
 
+## Packets Barrage
+![Screenshot 2024-09-19 002741](https://github.com/user-attachments/assets/e7e5a406-78c9-471d-b433-124c21c570e0)
+![Screenshot 2024-09-19 002625](https://github.com/user-attachments/assets/3592b96e-4eb7-466c-a0df-ddced161f67b)
+![Screenshot 2024-09-19 002648](https://github.com/user-attachments/assets/73c06544-0717-4c79-a37a-bc9a13e8c460)
 
+
+## FTP Login
+![Screenshot 2024-09-19 003559](https://github.com/user-attachments/assets/ef74a335-a8a0-469b-b09b-b7e0b6bcb448)
+![Screenshot 2024-09-19 003500](https://github.com/user-attachments/assets/6783a398-80de-41db-9699-a0c5ec10a4c7)
+![Screenshot 2024-09-19 003515](https://github.com/user-attachments/assets/525bc0b9-08b6-4876-9b07-c2df3d9e7ad2)
+
+
+## Surprise
+![Screenshot 2024-09-19 004048](https://github.com/user-attachments/assets/3642f17d-2b54-4145-aa61-aff103a86471)
+![Screenshot 2024-09-19 004142](https://github.com/user-attachments/assets/c662619c-27e0-4483-9a5d-a92c12aac3ff)
+![Screenshot 2024-09-19 003834](https://github.com/user-attachments/assets/9b5306c4-a2b0-45b3-883b-2bad661c0980)
+![Screenshot 2024-09-19 003955](https://github.com/user-attachments/assets/1b240710-7711-4211-8a85-33acc5950409)
+
+
+## Corporate Breach
+![Screenshot 2024-09-19 004611](https://github.com/user-attachments/assets/77489707-7b5a-416f-be96-9f1f4d1b1d2e)
+![Screenshot 2024-09-19 004413](https://github.com/user-attachments/assets/5d45fa10-a74d-41c4-b777-1fd9c0a33bf2)
+![Screenshot 2024-09-19 004506](https://github.com/user-attachments/assets/88364e2b-3920-481a-bc06-d91a1ea4b2f5)
+![Screenshot 2024-09-19 004529](https://github.com/user-attachments/assets/31f50028-39fb-4e91-b72e-8cd0ca901373)
 
 
 
