@@ -70,39 +70,61 @@ Jawaban diambil dari analisa data yang ada pada gambar pertama
 
 ## Advance Sanity Check
 ![image](https://github.com/user-attachments/assets/32db71d0-006c-410d-b614-0b68486a3ebb)
+1. Saya menggunakan `frame contains "username"` untuk display filter agar bisa mengetahui nama pengirim
 ![Screenshot 2024-09-19 000158](https://github.com/user-attachments/assets/519c8ad4-10d0-4987-adc2-f31a546baabb)
+
+2. Untuk mengetahui file yang dikirim saya menggunakan `frame contains "upload"`
 ![Screenshot 2024-09-19 000454](https://github.com/user-attachments/assets/1ee5a92b-b80a-4249-829c-af0287d6b81f)
+
+3. Dari petunjuk di stream follow, saya diminta mengecek peraturan soal shift jarkom yang berada di canva
 ![Screenshot 2024-09-19 000519](https://github.com/user-attachments/assets/fc3dd2cb-3b06-4e3c-9d6c-c1889ba2c732)
+
+4. Dari canva saya mendapatkan pesan rahasia yang harus di decode dengan base64 terlebih dahulu
 ![Screenshot 2024-09-19 001145](https://github.com/user-attachments/assets/7bccada7-5b8d-4d6c-a968-51fbb3b2e51d)
 
 
 ## Illegal Breakthrough
 ![Screenshot 2024-09-19 002115](https://github.com/user-attachments/assets/047539c9-037b-487d-bd1c-32636fba895c)
+Karena semua attempt gagal selalu mengembalikan pesan Not Found, maka saya scroll ke bagian paling bawah di mana saya menemui pesan Found yang berarti Login Berhasil dari sana saya mendapatkan informasi untuk IP, Port, Endpoint, Tools, dan kredensial yang digunakan untuk login
 ![Screenshot 2024-09-19 002254](https://github.com/user-attachments/assets/edca712e-ee7f-4d1a-8a12-1c09fa05cbe9)
 
 
 ## Packets Barrage
 ![Screenshot 2024-09-19 002741](https://github.com/user-attachments/assets/e7e5a406-78c9-471d-b433-124c21c570e0)
+
+1. Dengan display filter saya menemui ada 1918 kali percobaan untuk login dengan percobaan terakhir yang berhasil menyisakan 1917 percobaan
 ![Screenshot 2024-09-19 002625](https://github.com/user-attachments/assets/3592b96e-4eb7-466c-a0df-ddced161f67b)
+
+2. Dari percobaan terakhir yang berhasil nama file dan pesan rahasia yang dikirm ada di bagian paling bawah dari stream
 ![Screenshot 2024-09-19 002648](https://github.com/user-attachments/assets/73c06544-0717-4c79-a37a-bc9a13e8c460)
 
 
 ## FTP Login
 ![Screenshot 2024-09-19 003559](https://github.com/user-attachments/assets/ef74a335-a8a0-469b-b09b-b7e0b6bcb448)
+
+Dengan display filter saya mencari upaya login berhasil yang mengandung kata "success" dari sana dapat diketahui kredensial yang digunakan untuk login
 ![Screenshot 2024-09-19 003500](https://github.com/user-attachments/assets/6783a398-80de-41db-9699-a0c5ec10a4c7)
 ![Screenshot 2024-09-19 003515](https://github.com/user-attachments/assets/525bc0b9-08b6-4876-9b07-c2df3d9e7ad2)
 
 
 ## Surprise
 ![Screenshot 2024-09-19 004048](https://github.com/user-attachments/assets/3642f17d-2b54-4145-aa61-aff103a86471)
+
+1. Pada stream yang sama dengan soal sebelumnya, saya mendapatkan informasi tentang service yang digunakan dan file yang dikirim attacker
 ![Screenshot 2024-09-19 004142](https://github.com/user-attachments/assets/c662619c-27e0-4483-9a5d-a92c12aac3ff)
+
+2. Kemudian saya mengeksport file tersebut dan membukanya di visual studio code untuk menjalankan program dan menemukan pesan rahasianya
 ![Screenshot 2024-09-19 003834](https://github.com/user-attachments/assets/9b5306c4-a2b0-45b3-883b-2bad661c0980)
 ![Screenshot 2024-09-19 003955](https://github.com/user-attachments/assets/1b240710-7711-4211-8a85-33acc5950409)
 
 
 ## Corporate Breach
 ![Screenshot 2024-09-19 004611](https://github.com/user-attachments/assets/77489707-7b5a-416f-be96-9f1f4d1b1d2e)
+
+1. Dari TCP Stream pertama saya sudah mendapatkan nama penyerangnya
 ![Screenshot 2024-09-19 004413](https://github.com/user-attachments/assets/5d45fa10-a74d-41c4-b777-1fd9c0a33bf2)
+
+2. Kemudian saya menggunakan display filter untuk setiap paket yang mengandung suffix gmail dan menemui kejanggalan dari sebuah paket dengan panjang 108 di antara banyak paket yang hanya 90an panjangnya, dari paket tersebut saya mendapatkan kredensial yang digunakan untuk login
 ![Screenshot 2024-09-19 004506](https://github.com/user-attachments/assets/88364e2b-3920-481a-bc06-d91a1ea4b2f5)
 ![Screenshot 2024-09-19 004529](https://github.com/user-attachments/assets/31f50028-39fb-4e91-b72e-8cd0ca901373)
 
