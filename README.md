@@ -129,6 +129,20 @@ Dengan display filter saya mencari upaya login berhasil yang mengandung kata "su
 ![Screenshot 2024-09-19 004529](https://github.com/user-attachments/assets/31f50028-39fb-4e91-b72e-8cd0ca901373)
 
 ## 22 Nightmare
+1. Filter dengan format *.jpg* untuk mencari file yang dikirim.
+![image](https://github.com/user-attachments/assets/24b1aab1-0ac7-407b-81fd-a93982766042)
+![image](https://github.com/user-attachments/assets/ffa6a822-20df-4396-8a73-9135c1eb50f2)
+
+2. Export object untuk mengetahui isi dari file yg dikirim
+![image](https://github.com/user-attachments/assets/c0920fe4-e40e-4c96-a108-a279cb3b662c)
+![image](https://github.com/user-attachments/assets/05b1c66a-b7ec-4146-9b97-746bb95409a3)
+
+3. Mencari nama pengirim dalam file noko.py dan menggunakan metode XOR 
+   ![image](https://github.com/user-attachments/assets/f22ddb47-a5de-4004-b4d0-a27b899c1f5b)
+   ![image](https://github.com/user-attachments/assets/0643a535-d89c-43a9-a026-5904d6a41ceb)
+
+
+
 
 
 
